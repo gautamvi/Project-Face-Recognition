@@ -1,0 +1,10 @@
+body{
+    background:linear-gradient(aquamarine,cyan,blue,darkblue,rgb(138, 138, 233));
+}
+.heading{
+    font-size: 23px;
+    width: 80%;
+}
+.bold,#result_object,#result_accuracy,p{
+    color: rgb(255, 0, 225);
+}
